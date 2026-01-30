@@ -28,26 +28,26 @@ To run this project locally, follow these steps:
 
 2. **Set up the environment:**
 
-You will need a local server like XAMPP or WAMP.
+- You will need a local server like XAMPP or WAMP.
 
-Move the project folder to htdocs (if using XAMPP).
+- Move the project folder to htdocs (if using XAMPP).
 
 3. **Database Setup:**
 
-Access phpMyAdmin.
+- Access phpMyAdmin.
 
-Create a database named portalburger (or as specified in your connection file).
+- Create a database named portalburger (or as specified in your connection file).
 
-Import the .sql file located in the project's root folder.
+- Import the .sql file located in the project's root folder.
 
 4. **Connection Config:**
 
-Update the PHP connection files with your local credentials (typically user: root, no password).
+- Update the PHP connection files with your local credentials (typically user: root, no password).
 
 5. **Launch:**
 
-Open your browser and go to http://localhost/Portalburger.germanluna
+- Open your browser and go to http://localhost/Portalburger.germanluna
 
 ## 🌍 Live Demo
 
-Check out the live application here: https://portalburguer.infinityfreeapp.com/
+- Check out the live application here: https://portalburguer.infinityfreeapp.com/
